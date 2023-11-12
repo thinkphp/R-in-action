@@ -19,3 +19,15 @@ for (x in 1:10) {
   print(x)
 }
 ```
+
+## Function
+
+```
+my_function <- function(fname) {
+  paste(fname, "Griffin")
+}
+
+my_function("Peter")
+my_function("Lois")
+my_function("Stewie")
+```

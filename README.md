@@ -120,3 +120,13 @@ music_genre <- factor(c("Jazz", "Rock", "Classic", "Classic", "Pop", "Jazz", "Ro
 
 levels(music_genre)
 ```
+
+## Graphics
+
+```
+# Create a vector of pies
+x <- c(10,20,30,40)
+
+# Display the pie chart
+pie(x)
+```

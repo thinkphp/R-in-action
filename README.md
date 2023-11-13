@@ -99,3 +99,24 @@ my_function("Peter")
 my_function("Lois")
 my_function("Stewie")
 ```
+
+## Factors
+
+Factors are used to categorize data. Examples of factors are:
+
+Demography: Male/Female
+Music: Rock, Pop, Classic, Jazz
+Training: Strength, Stamina
+To create a factor, use the factor() function and add a vector as argument:
+
+```
+# Create a factor
+music_genre <- factor(c("Jazz", "Rock", "Classic", "Classic", "Pop", "Jazz", "Rock", "Jazz"))
+
+# Print the factor
+music_genre
+
+music_genre <- factor(c("Jazz", "Rock", "Classic", "Classic", "Pop", "Jazz", "Rock", "Jazz"))
+
+levels(music_genre)
+```

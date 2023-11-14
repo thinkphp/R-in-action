@@ -1,5 +1,8 @@
 # Standard Deviation
 
+## Examples
+
+https://ideone.com/hFjmrw
 
 ## References:
 

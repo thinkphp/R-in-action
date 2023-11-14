@@ -1,4 +1,4 @@
-# Essential R language.
+# Essential R
 
 R is a popular programming language used for statistical computing and graphical presentation.
 

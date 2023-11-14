@@ -20,3 +20,6 @@ In statistics, there are often three values that interests us:
 > 
 
 ```
+
+# Examples
+https://ideone.com/mgcRMY

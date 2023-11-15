@@ -25,5 +25,7 @@ In statistics, there are often three values that interests us:
 https://www.hackerrank.com/challenges/s10-basic-statistics/problem
 
 # Examples
+
 https://ideone.com/mgcRMY
+
 https://ideone.com/g5IluV

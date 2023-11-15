@@ -14,6 +14,8 @@ https://www.hackerrank.com/challenges/s10-standard-deviation/problem
 
 https://ideone.com/hFjmrw
 
+https://ideone.com/ORmOp1
+
 ## References:
 
 https://www.digitalocean.com/community/tutorials/find-standard-deviation-in-r

@@ -18,4 +18,7 @@ quantile(Data_Cars, c(0.75))
 ## Examples
 https://ideone.com/eGevmX
 
+## References
+
+https://www.cuemath.com/percentile-formula/
 
